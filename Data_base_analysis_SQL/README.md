@@ -1,6 +1,6 @@
 # Анализ базы данных книжного сервиса
 
-[ipynb]()
+[ipynb](https://github.com/olga-vo/Portfolio/blob/main/Data_base_analysis_SQL/Data_base_analysis_project.ipynb)
 
 ## Описание проекта
 
